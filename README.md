@@ -153,6 +153,17 @@ Pictures:
   <img src="/Models/LED_matrix_Clock_Marquee+electronics-back_xray.png" width="260"/>
 </p>
 
+## Double Wide LED 3D Printed Case by David Payne:
+Double Wide LED version: https://www.thingiverse.com/thing:2989552
+
+This printed case has an open front but brings protection and stability to your build by having the back covered up.
+
+STL models are available here:
+* [STL panel](/Models/LED_matrix_double_wide_Clock_Panels.stl) <img src="/Models/LED_matrix_double_wide_Clock_Panels.png" height="40"/>
+* [STL Left](/Models/LED_matrix_double_wide_Clock_Left.stl) <img src="/Models/LED_matrix_double_wide_Clock_Left.png" height="40"/>
+* [STL Right](/Models/LED_matrix_double_wide_Clock_Right.stl) <img src="/Models/LED_matrix_double_wide_Clock_Right.png" height="40"/>
+* [STL Center](/Models/LED_matrix_double_wide_Clock_Center.stl) <img src="/Models/LED_matrix_double_wide_Clock_Center.png" height="40"/>
+* [STL Back plate](/Models/LED_matrix_double_wide_Clock_Back_plate.stl) <img src="/Models/LED_matrix_double_wide_Clock_Back_plate.png" height="40"/>
 
 ## Compiling and Loading to Wemos D1 Mini (ESP8266)
 
