@@ -159,7 +159,7 @@ Double Wide LED version: https://www.thingiverse.com/thing:2989552
 This printed case has an open front but brings protection and stability to your build by having the back covered up.
 
 STL models are available here:
-* [STL panel](/Models/LED_matrix_double_wide_Clock_Panels.stl) <img src="/Models/LED_matrix_double_wide_Clock_Panels.png" height="40"/>
+* [STL panel](/Models/LED_matrix_double_wide_Clock_Panels.stl) <img src="/Models/LED_matrix_double_wide_Clock_Panels.png" height="40"/> Important: The model is 90mm wide, I had to print it at 95 mm wide to fit the display. (roughly 105% width)
 * [STL Left](/Models/LED_matrix_double_wide_Clock_Left.stl) <img src="/Models/LED_matrix_double_wide_Clock_Left.png" height="40"/>
 * [STL Right](/Models/LED_matrix_double_wide_Clock_Right.stl) <img src="/Models/LED_matrix_double_wide_Clock_Right.png" height="40"/>
 * [STL Center](/Models/LED_matrix_double_wide_Clock_Center.stl) <img src="/Models/LED_matrix_double_wide_Clock_Center.png" height="40"/>
